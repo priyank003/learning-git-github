@@ -1,0 +1,3 @@
+git feature commit 1
+
+git master commit 1
